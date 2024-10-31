@@ -1,5 +1,5 @@
 {
-  "name": "gresumereact",
+  "name": "dresumereact",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,7 +20,7 @@
     "eject": "react-scripts eject",
     "stylus": "stylus -u nib -c -w -o public/css/style.css src/index.styl"
   },
-  "description": "Professional Resume CV Template in ReactJS",
+  "description": "Professional Resume in ReactJS",
   "main": "index.js",
   "repository": {
     "type": "git",
