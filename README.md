@@ -1,11 +1,10 @@
-# gresume-react
-Professional Resume CV Template in ReactJS
+# Dresume-react
+Professional Resume in ReactJS
 
-GResume is a HTML free template to create a minimalist professional resume. Made in html5 and css3 with a responsive design.
 
-![gresume](https://raw.githubusercontent.com/gndx/GResume/master/screenshot.png)
+![Dresume]([https://avatars.githubusercontent.com/u/134713147?s=400&u=1bc7b5e30347b86483a4bacb901a282170dcb753&v=4])
 
-*  Click here to use the [Live Demo](http://dev.gndx.co/gresume-react/)
+*  Click here to use the [Live Demo](http://dev.gndx.co/dresume-react/)
 
 
 
