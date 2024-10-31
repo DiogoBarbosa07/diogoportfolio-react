@@ -2,7 +2,7 @@
 Professional Resume in ReactJS
 
 
-![Dresume](https://raw.githubusercontent.com/gndx/DResume/master/screenshot.png)
+![Dresume]([https://raw.githubusercontent.com/gndx/DResume/master/screenshot.png](https://avatars.githubusercontent.com/u/134713147?v=4))
 
 *  Click here to use the [Live Demo](http://dev.gndx.co/dresume-react/)
 
