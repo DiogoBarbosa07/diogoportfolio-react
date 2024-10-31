@@ -9,16 +9,15 @@ class App extends Component {
   render() {
 
     const person = {
-      avatar: 'https://gndx.co/wp-content/uploads/2017/05/oscar_barajas.jpg',
-      name: 'Oscar Barajas',
-      profession: 'FrontEnd Developer',
-      bio: '❤ Front end Developer - Growth Hacker at @CityDrive, CSS Lover, Geek & Blogger. Better known as The Grumpy Developer.',
-      address: 'Guadalajara, Jalisco México.',
+      avatar: 'https://avatars.githubusercontent.com/u/134713147?v=4',
+      name: 'Diogo Barbosa',
+      profession: 'Software Engineer',
+      bio: 'Backend (Java Web | Spring boot) & Frontend (React | HTML | CSS | Javascript) Developer -  ',
+      address: 'Ponto de Parada, Recife, Brazil.',
       social: [
-        {name: 'facebook', url: 'https://facebook.com/oscarbarajastavares'},
-        {name: 'twitter', url: 'https://twitter.com/gndx'},
-        {name: 'github', url: 'https://github.com/gndx'},
-        {name: 'linkedin', url: 'https://www.linkedin.com/in/oscarbarajas/'}
+      
+        {name: 'github', url: 'https://github.com/DiogoBarbosa07'},
+        {name: 'linkedin', url: 'https://www.linkedin.com/in/diogobarbosa0486'}
       ],
       experience: [
         {jobTitle: 'FrontEnd', company: 'CityDrive', startDate: 'Jan 2016', endDate: 'Present', jobDescription: 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.'},
@@ -33,10 +32,10 @@ class App extends Component {
         {name: 'Backend Developer', institution: 'Platzi', date: 'Jan 2016', description: 'Aenean commodo ligula eget dolor. Aenean massa.' }
       ],
       skills: [
-        {name: 'HTML5', percentage: '95%'},
-        {name: 'CSS', percentage: '90%'},
-        {name: 'JavaScript', percentage: '75%'},
-        {name: 'PHP', percentage: '50%'}
+        {name: 'HTML', percentage: '80%'},
+        {name: 'CSS', percentage: '70%'},
+        {name: 'JavaScript', percentage: '60%'},
+        {name: 'Java', percentage: '70%'}
       ]
     };
 
